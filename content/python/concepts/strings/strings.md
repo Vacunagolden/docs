@@ -164,7 +164,7 @@ Python can use comparison [operators](https://www.codecademy.com/resources/docs/
 |   `==`   |          Equal           | Returns `True` if two strings are equal.                                                 |
 |   `!=`   |        Not equal         | Returns `True` if two strings are not equal.                                             |
 |   `<`    |        Less than         | Returns `True` if the left string is lexically prior the right string.                   |
-|   `>`    |       Greater than       | Returns `True` is the left string comes lexically after the right string.                |
+|   `>`    |       Greater than       | Returns `True` if the left string comes lexically after the right string.                |
 |   `<=`   |  Less than or equal to   | Returns `True` if the left string is equal to or lexically prior to the right string.    |
 |   `>=`   | Greater than or equal to | Returns `True` if the left string is equal to or comes lexically after the right string. |
 
